@@ -5,7 +5,7 @@ import requests
 import re
 from bardapi import Bard
 
-os.environ['_BARD_API_KEY'] = 'XXXXXXXXXXXX'
+os.environ['_BARD_API_KEY'] = 'cggKrWsXqDc808nglfKT_ffLQY0iyLpKzqfS3hl4kiQcBiaj47a1Q-h8yApIL-t12e6YLw.'
 
 session = requests.Session()
 session.headers = {
